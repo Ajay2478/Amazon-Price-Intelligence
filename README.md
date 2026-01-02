@@ -30,9 +30,3 @@ This project serves as a foundation for **Predictive Sales Dashboards**, allowin
 * **Format:** Excel (.xlsx)
 
 ---
-## 💻 Installation & Setup
-
-1. **Clone the Repo:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Amazon-Price-Intelligence.git](https://github.com/YOUR_USERNAME/Amazon-Price-Intelligence.git)
-   cd Amazon-Price-Intelligence
